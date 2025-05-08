@@ -4,6 +4,10 @@
 
 ### H3 Header
 
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 #### H4 Header
 
 ##### H5 Header
